@@ -15,7 +15,6 @@ Description: A Python script that automates the scanning of open network ports o
 - `Scanning Known Ports`: Checks a predefined list of commonly used ports (e.g., 20, 21, 22, 80, 443) to identify which are open on the host.
 - `Scanning All Ports`: Performs a scan of all 65,535 possible ports on the host to detect any that are open.
 - `Scanning User-Selected Ports`: Allows users to manually specify a list of ports to scan.
-- `Usage examples images`:
 
 ## 💻 | Technologies Used
 - `Python 3.13;`
@@ -45,7 +44,7 @@ py main.py
 
 - **Fundamentals of Networks:**
   - Practical application of IPv4 addresses (octets and values);
-  - Which ports can be a major vulnerability to the network, becoming an entry point for attacks;
+  - Which ports can be a major vulnerability to the network, becoming an entry point for attacks.
   
 - **Use of Python Libraries:**
   - **socket:**
@@ -59,9 +58,9 @@ py main.py
   - Separation of different functions and files for resource optimization;
   - Use of libraries for resource optimization;
   - Input validation with try/except;
-  - Closing socket connections to avoid performance issues;
+  - Closing socket connections to avoid performance issues.
   
-- **Security Scanning for Open Ports Identification;**
+- **Security Scanning for Open Ports Identification.**
 
 ### Conlusion:
 The project helped me a lot in practicing problem-solving, programming logic, and code structuring.
