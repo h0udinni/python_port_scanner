@@ -36,7 +36,7 @@ Recommended version: Python 3.6 or higher.
 ## How to run
 ```
 git clone https://github.com/h0udinni/python_port_scanner.git
-cd port_scan_by_h0udinni
-python main.py
+cd python_port_scanner
+py main.py
 ```
 
