@@ -35,7 +35,7 @@ Recommended version: Python 3.6 or higher.
 
 ## How to run
 ```
-git clone https://github.com/h0udinni/Python/tree/5ada90263dc2a6d10b725caa8b6043f5b7cdda62/port_scan_by_h0udinni
+git clone https://github.com/h0udinni/python_port_scanner.git
 cd port_scan_by_h0udinni
 python main.py
 ```
