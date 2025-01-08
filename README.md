@@ -43,4 +43,25 @@ py main.py
 
 ## 📖 | What did I learn?
 
+- **Fundamentals of Networks:**
+  - Practical application of IPv4 addresses (octets and values);
+  - Which ports can be a major vulnerability to the network, becoming an entry point for attacks;
+  
+- **Use of Python Libraries:**
+  - **socket:**
+    - The library can be used to establish TCP/IP connections and even open a local server.
+  - **os:**
+    - Execution of commands in the operating system.
+  - **ipaddress:**
+    - Application of IP addresses in Python.
+  
+- **Structured Programming:**
+  - Separation of different functions and files for resource optimization;
+  - Use of libraries for resource optimization;
+  - Input validation with try/except;
+  - Closing socket connections to avoid performance issues;
+  
+- **Security Scanning for Open Ports Identification;**
 
+### Conlusion:
+The project helped me a lot in practicing problem-solving, programming logic, and code structuring.
